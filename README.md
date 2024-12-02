@@ -1,6 +1,8 @@
 # bayrak_cizimi_stack
 
 Tütk bayrağı çizimi
+Stack yapsısı kullanılarak bayrak çizimi gerçekleştirilmiştir ![Bayrak](https://github.com/user-attachments/assets/c7d625a6-c5d1-42e1-83ae-14bb7265904b)
+
 
 ## Getting Started
 
